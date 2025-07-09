@@ -1,6 +1,6 @@
 # 📈 Stock Price Prediction using LSTM
 
-**Domain**: Artificial Intelligence & Finance  
+**Domain**: Machine Learning & AI  
 **Internship Program**: Tamizhan Skills Rise  
 **Intern ID**: TS-RISE-MLAI-2514  
 **Author**: Khushi Sharma  
